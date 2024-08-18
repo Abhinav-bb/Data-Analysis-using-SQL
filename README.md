@@ -1,0 +1,1 @@
+This project aims to create a complete data analytics pipeline that uses Python and SQL to handle real-world datasets. Starting with the Kaggle API, we'll download datasets, clean and process the data using Pandas, and load it into a SQL Server database. The final step will involve running SQL queries to answer insightful questions about the data.
